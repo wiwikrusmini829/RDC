@@ -30,17 +30,17 @@
     {
       "id": 1,
       "name_category": "Playstore",
-      "image": ""
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
     },
     {
       "id": 2,
       "name_category": "Tutorial",
-      "image": ""
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
     },
     {
       "id": 3,
       "name_category": "Reskin",
-      "image": ""
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
     }
   ],
 
@@ -48,57 +48,57 @@
     {
       "id": 3,
       "name_category": "Tutorial",
-      "title": "",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
       "image": "file:///android_asset/pemandangan.jpg",
-      "description": "",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
       "link": "cat->Reskin"
     },
     {
       "id": 4,
       "name_category": "Reskin",
-      "title": "",
+      "title": "Cara menggunakan Alien SDK Ads",
       "image": "file:///android_asset/pemandangan.jpg",
-      "description": "",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
       "link": "file:///android_asset/guide/guide2.html"
     },
     {
       "id": 5,
       "name_category": "Reskin",
-      "title": "",
+      "title": "Cara menggunakan Alien SDK Ads",
       "image": "file:///android_asset/pemandangan.jpg",
-      "description": "",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
       "link": "file:///android_asset/guide/guide2.html"
     },
     {
       "id": 6,
       "name_category": "Reskin",
-      "title": "",
+      "title": "Cara menggunakan Alien SDK Ads",
       "image": "file:///android_asset/pemandangan.jpg",
-      "description": "",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
       "link": "file:///android_asset/guide/guide2.html"
     },
     {
       "id": 7,
       "name_category": "Reskin",
-      "title": "",
+      "title": "Cara menggunakan Alien SDK Ads",
       "image": "file:///android_asset/pemandangan.jpg",
-      "description": "",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
       "link": "file:///android_asset/guide/guide2.html"
     },
     {
       "id": 8,
       "name_category": "Reskin",
-      "title": "",
+      "title": "Cara menggunakan Alien SDK Ads",
       "image": "file:///android_asset/pemandangan.jpg",
-      "description": "",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
       "link": "file:///android_asset/guide/guide2.html"
     },
     {
       "id": 9,
       "name_category": "Reskin",
-      "title": "",
+      "title": "Cara menggunakan Alien SDK Ads",
       "image": "file:///android_asset/pemandangan.jpg",
-      "description": "",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
       "link": "file:///android_asset/guide/guide2.html"
     }
   ]
