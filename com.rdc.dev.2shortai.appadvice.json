@@ -1,0 +1,105 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_under_maintenance": true
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": ""
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "",
+      "image": "file:///android_asset/pemandangan.jpg",
+      "description": "",
+      "link": "cat->Reskin"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "",
+      "image": "file:///android_asset/pemandangan.jpg",
+      "description": "",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "",
+      "image": "file:///android_asset/pemandangan.jpg",
+      "description": "",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "",
+      "image": "file:///android_asset/pemandangan.jpg",
+      "description": "",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "",
+      "image": "file:///android_asset/pemandangan.jpg",
+      "description": "",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "",
+      "image": "file:///android_asset/pemandangan.jpg",
+      "description": "",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "",
+      "image": "file:///android_asset/pemandangan.jpg",
+      "description": "",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
+  ]
+}
