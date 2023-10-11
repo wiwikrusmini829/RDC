@@ -11,14 +11,14 @@
 
     "ad_network": [
       {
-        "name": "fan",
+        "name": "max",
         "value": 1,
         "min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
-        "banner": "isi-kode-iklan-banner",
+        "appId_appKey_publisherId_gameId": "e9kJg9BDn6fIHUNBqAl0_8TnIg15MI1BNEVwhy7f1fLoO0B0r9lvqAoEXnxq-ypxe3B1PTb26fN27Awz38r9U_",
+        "banner": "b777e25c2574d1d1",
         "mrec": "off",
-        "inter": "isi-kode-iklan-inter",
+        "inter": "04ad74b8b14949cb",
         "native_ad": "off",
         "open_ad": "off",
         "splash_ad": false
