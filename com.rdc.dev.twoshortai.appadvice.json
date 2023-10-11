@@ -12,13 +12,39 @@
     "ad_network": [
       {
         "name": "max",
-        "value": 1,
-        "min_time": 120,
+        "value": 1000,
+        "min_time": 60,
 
         "appId_appKey_publisherId_gameId": "e9kJg9BDn6fIHUNBqAl0_8TnIg15MI1BNEVwhy7f1fLoO0B0r9lvqAoEXnxq-ypxe3B1PTb26fN27Awz38r9U_",
         "banner": "b777e25c2574d1d1",
         "mrec": "off",
         "inter": "04ad74b8b14949cb",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      },
+      {
+        "name": "max",
+        "value": 100,
+        "min_time": 60,
+
+        "appId_appKey_publisherId_gameId": "e9kJg9BDn6fIHUNBqAl0_8TnIg15MI1BNEVwhy7f1fLoO0B0r9lvqAoEXnxq-ypxe3B1PTb26fN27Awz38r9U_",
+        "banner": "2559fac8027b946d",
+        "mrec": "off",
+        "inter": "ca2ba580e51c3d0a",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      },
+      {
+        "name": "max",
+        "value": 1,
+        "min_time": 60,
+
+        "appId_appKey_publisherId_gameId": "e9kJg9BDn6fIHUNBqAl0_8TnIg15MI1BNEVwhy7f1fLoO0B0r9lvqAoEXnxq-ypxe3B1PTb26fN27Awz38r9U_",
+        "banner": "2f719f55884bd72a",
+        "mrec": "off",
+        "inter": "f3d26093c238e11b",
         "native_ad": "off",
         "open_ad": "off",
         "splash_ad": false
