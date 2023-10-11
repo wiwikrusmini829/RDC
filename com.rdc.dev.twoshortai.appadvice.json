@@ -5,8 +5,8 @@
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
 
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "make_app_under_maintenance": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
     },
 
     "ad_network": [
@@ -29,77 +29,67 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Tutorial",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      "name_category": "2ShortAI",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg"
     }
   ],
 
   "Data": [
     {
+      "id": 1,
+      "name_category": "2ShortAI",
+      "title": "What is 2Short AI?",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg",
+      "description": "2Short AI is an AI-powered tool that helps YouTube creators optimize their videos for more views and subscribers.",
+      "link": "https://rdckonten.blogspot.com/2023/10/what-is-2short-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "2ShortAI",
+      "title": "How does 2short.ai work?",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg",
+      "description": "2short.ai is an AI-based tool that analyzes long-form videos and extracts the most engaging moments from them.",
+      "link": "https://rdckonten.blogspot.com/2023/10/how-does-2shortai-work.html"
+    },
+    {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "file:///android_asset/pemandangan.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-      "link": "cat->Reskin"
+      "name_category": "2ShortAI",
+      "title": "What are some features of 2short.ai?",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg",
+      "description": "2short.ai is an AI-based tool that helps content creators to optimize their videos for views and subscribers",
+      "link": "https://rdckonten.blogspot.com/2023/10/what-are-some-features-of-2shortai.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "file:///android_asset/pemandangan.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "2ShortAI",
+      "title": "Can I use 2short.ai for Instagram Reels?",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg",
+      "description": "Yes, 2short.ai can be used to create short-form videos for Instagram Reels.",
+      "link": "https://rdckonten.blogspot.com/2023/10/can-i-use-2shortai-for-instagram-reels.html"
     },
     {
       "id": 5,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "file:///android_asset/pemandangan.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "2ShortAI",
+      "title": "How do I upload a video to 2short.ai?",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg",
+      "description": "To upload a video to 2short.ai, you need to follow these steps",
+      "link": "https://rdckonten.blogspot.com/2023/10/how-do-i-upload-video-to-2shortai.html"
     },
     {
       "id": 6,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "file:///android_asset/pemandangan.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "2ShortAI",
+      "title": "How does 2Short AI identify the most engaging parts of a video?",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg",
+      "description": "2Short AI uses artificial intelligence to analyze long-form videos and identify the most engaging parts.",
+      "link": "https://rdckonten.blogspot.com/2023/10/how-does-2short-ai-identify-most.html"
     },
     {
       "id": 7,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "file:///android_asset/pemandangan.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
-    },
-    {
-      "id": 8,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "file:///android_asset/pemandangan.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
-    },
-    {
-      "id": 9,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "file:///android_asset/pemandangan.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "name_category": "2ShortAI",
+      "title": "What is the optimal length for each clip generated by 2Short AI?",
+      "image": "https://cdn.wallpapersafari.com/29/89/PktVoA.jpg",
+      "description": "The optimal length for each clip generated by 2Short AI depends on the type of content you are creating.",
+      "link": "https://rdckonten.blogspot.com/2023/10/what-is-optimal-length-for-each-clip.html"
     }
   ]
 }
