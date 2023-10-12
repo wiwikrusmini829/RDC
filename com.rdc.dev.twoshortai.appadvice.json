@@ -1,7 +1,7 @@
 {
   "ads": {
     "settings": {
-      "interval_interstitial": 3,
+      "interval_interstitial": 2,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
 
