@@ -11,6 +11,19 @@
 
     "ad_network": [
       {
+        "name": "fan",
+        "value": 10000,
+        "min_time": 60,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "743690871153191_743695841152694",
+        "mrec": "off",
+        "inter": "743690871153191_743695957819349",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      },
+      {
         "name": "max",
         "value": 1000,
         "min_time": 60,
